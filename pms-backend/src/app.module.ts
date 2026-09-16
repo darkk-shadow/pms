@@ -26,6 +26,10 @@ import { Payment } from './entities/payment.entity';
         database: config.get<string>('DB_NAME') ?? 'pms_db',
         entities: [User, Patient, Bill, Payment],
         synchronize: true, // OK for this assignment; use migrations in real production
+        ssl:
+          config.get<string>('NODE_ENV') === 'production'
+            ? { rejectUnauthorized: false }
+            : false,
       }),
     }),
     AuthModule,
