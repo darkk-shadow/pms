@@ -17,6 +17,9 @@ A full-stack web application for managing patients, billing, and payments — bu
 
 ## 📸 Screenshots
 
+### Login Page
+![Login Page](screenshots/00-login.png)
+
 ### Dashboard
 ![Dashboard](screenshots/03-dashboard.png)
 
