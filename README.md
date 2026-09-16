@@ -15,6 +15,19 @@ A full-stack web application for managing patients, billing, and payments — bu
 
 ---
 
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](screenshots/03-dashboard.png)
+
+### Patient Management
+![Patient Management](screenshots/02-patients.png)
+
+### Add Patient Form
+![Add Patient Form](screenshots/01-add-patient.png)
+
+---
+
 ## 🧱 Tech Stack
 
 | Layer | Technology |
