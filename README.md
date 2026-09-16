@@ -26,6 +26,12 @@ A full-stack web application for managing patients, billing, and payments — bu
 ### Add Patient Form
 ![Add Patient Form](screenshots/01-add-patient.png)
 
+### Billing
+![Billing](screenshots/05-billing.png)
+
+### Payment History
+![Payment History](screenshots/04-payment-history.png)
+
 ---
 
 ## 🧱 Tech Stack
